@@ -43,6 +43,12 @@ The Retail Sales Data Analysis project is an end-to-end data analytics case stud
 - Customer Purchase Distribution  
 - Revenue vs Discount Relationship
 
+## 📷 Sample Output Screenshot
+
+Below is a sample chart generated during the analysis:
+
+![Sales Dashboard](RetailSalesData.png)
+
 ## Project Outcomes
 
 - Developed strong data cleaning and EDA skills  
@@ -57,4 +63,3 @@ Email: arjunravella108@gmail.com
 Phone: +91 7095740732  
 LinkedIn: https://www.linkedin.com/in/R-Nagarjuna  
 GitHub: https://github.com/RAVELLANAGARJUNA
-
