@@ -1,8 +1,6 @@
 # Retail Sales Data Analysis
 
 
-![Retail Sales Dashboard Screenshot](RetailSalesData.png)
-
 
 ## Project Overview
 
