@@ -1,5 +1,9 @@
 # Retail Sales Data Analysis
 
+
+![Retail Sales Dashboard Screenshot](RetailSalesData.png)
+
+
 ## Project Overview
 
 The Retail Sales Data Analysis project is an end-to-end data analytics case study designed to explore sales performance, customer purchasing behavior, and product trends using historical retail data. The project focuses on extracting business insights that can support data-driven decision-making in a retail environment.
