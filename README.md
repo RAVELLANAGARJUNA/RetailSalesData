@@ -49,7 +49,7 @@ The Retail Sales Data Analysis project is an end-to-end data analytics case stud
 
 Below is a sample chart generated during the analysis:
 
-![Sales Dashboard](RetailSalesData.png)
+![Sales Dashboard](Outputs/RetailSalesData.png)
 
 ## Project Outcomes
 
